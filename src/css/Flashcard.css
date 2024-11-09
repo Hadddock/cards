@@ -1,0 +1,52 @@
+.flashcard {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.word {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.partOfSpeech,
+.meaning,
+.pronunciation,
+.definition,
+.examples,
+.translation {
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 18px;
+  color: #555;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+.images {
+  margin-bottom: 15px;
+}
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.image-gallery img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
