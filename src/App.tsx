@@ -2,9 +2,6 @@ import * as React from 'react';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import useMediaQuery from '@mui/material/useMediaQuery';
-import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
 import './App.css';
 import { WordData } from './wordDataDefinitions';
 import Flashcard from './components/Flashcard';
@@ -44,7 +41,6 @@ const sampleWordData: WordData = {
 };
 
 function App() {
-  const [count, setCount] = useState(0);
   const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
 
   const theme = React.useMemo(
