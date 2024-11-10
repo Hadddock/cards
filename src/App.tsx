@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg';
 import './App.css';
 import { WordData } from './wordDataDefinitions';
 import Flashcard from './components/Flashcard';
+import LanguageSelector from './components/LanguageSelector';
 
 const sampleWordData: WordData = {
   word: 'computer',
@@ -41,7 +42,7 @@ function App() {
 
   return (
     <>
-      <Flashcard wordData={sampleWordData} />
+      <LanguageSelector />
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
