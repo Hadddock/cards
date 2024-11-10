@@ -9,6 +9,7 @@ import { LanguageProvider } from './context/LanguageContext';
 
 const sampleWordData: WordData = {
   word: 'computer',
+  level: 'A1',
   partOfSpeech: 'noun (countable)',
   meaning: new Map([['en', "комп'ютер"]]),
   pronunciation: 'kəmˈpju·tə̬r',
@@ -64,6 +65,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <Flashcard wordData={sampleWordData} />
     </LanguageProvider>
   );
 }

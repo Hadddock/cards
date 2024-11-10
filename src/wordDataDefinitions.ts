@@ -1,4 +1,5 @@
 interface WordData {
+  level: string;
   partOfSpeech: string; // enum
   word: string;
   definition: string;
