@@ -3,6 +3,7 @@ import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 import { useLanguage } from '../context/LanguageContext';
+import useMediaQuery from '@mui/material/useMediaQuery';
 
 const languages: readonly LanguageType[] = [
   { code: 'EN', label: 'English', nativeLabel: 'English', flagCode: 'gb' },
@@ -20,6 +21,7 @@ const languages: readonly LanguageType[] = [
 export default function LanguageSelector() {
   const { currentLanguage, setCurrentLanguage } = useLanguage();
   const [inputValue, setInputValue] = React.useState('');
+  const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
 
   const selectedLanguage = languages.find(
     (lang) => lang.code.toLowerCase() === currentLanguage.split('-')[0]
@@ -36,10 +38,12 @@ export default function LanguageSelector() {
       value={selectedLanguage || null}
       inputValue={inputValue}
       onInputChange={(event, newInputValue) => {
+        console.log(event);
         setInputValue(newInputValue);
       }}
       onChange={(event, newValue) => {
         if (newValue) {
+          console.log(event);
           setCurrentLanguage(newValue.code.toLowerCase());
         }
       }}
@@ -61,7 +65,11 @@ export default function LanguageSelector() {
           <Box
             key={key}
             component="li"
-            sx={{ '& > img': { mr: 2, flexShrink: 0 } }}
+            sx={{
+              '& > img': { mr: 2, flexShrink: 0 },
+              backgroundColor: prefersDarkMode ? '#424242' : '#fff',
+              color: prefersDarkMode ? '#fff' : '#000',
+            }}
             {...optionProps}
           >
             <img
@@ -79,6 +87,11 @@ export default function LanguageSelector() {
         <TextField
           {...params}
           label="Choose a language"
+          InputLabelProps={{
+            style: {
+              color: prefersDarkMode ? '#fff' : '#000',
+            },
+          }}
           InputProps={{
             ...params.InputProps,
             startAdornment: selectedLanguage ? (
@@ -91,6 +104,10 @@ export default function LanguageSelector() {
                 style={{ marginRight: 8 }}
               />
             ) : null,
+            style: {
+              backgroundColor: prefersDarkMode ? '#424242' : '#fff',
+              color: prefersDarkMode ? '#fff' : '#000',
+            },
           }}
           slotProps={{
             htmlInput: {
