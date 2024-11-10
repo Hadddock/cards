@@ -5,6 +5,7 @@ import './App.css';
 import { WordData } from './wordDataDefinitions';
 import Flashcard from './components/Flashcard';
 import LanguageSelector from './components/LanguageSelector';
+import { LanguageProvider } from './context/LanguageContext';
 
 const sampleWordData: WordData = {
   word: 'computer',
@@ -41,7 +42,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <>
+    <LanguageProvider>
       <LanguageSelector />
       <div>
         <a href="https://vite.dev" target="_blank">
@@ -63,7 +64,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-    </>
+    </LanguageProvider>
   );
 }
 

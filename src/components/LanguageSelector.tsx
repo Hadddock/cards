@@ -2,6 +2,7 @@ import * as React from 'react';
 import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
+import { useLanguage } from '../context/LanguageContext';
 
 const languages: readonly LanguageType[] = [
   { code: 'EN', label: 'English', nativeLabel: 'English', flagCode: 'gb' },
@@ -17,14 +18,12 @@ const languages: readonly LanguageType[] = [
 ];
 
 export default function LanguageSelector() {
-  const [currentLanguage, setCurrentLanguage] = React.useState(
-    navigator.language
-  );
+  const { currentLanguage, setCurrentLanguage } = useLanguage();
   const [inputValue, setInputValue] = React.useState('');
 
-  React.useEffect(() => {
-    setCurrentLanguage(navigator.language);
-  }, []);
+  const selectedLanguage = languages.find(
+    (lang) => lang.code.toLowerCase() === currentLanguage.split('-')[0]
+  );
 
   return (
     <Autocomplete
@@ -34,11 +33,7 @@ export default function LanguageSelector() {
       autoHighlight
       multiple={false}
       disableCloseOnSelect={false}
-      value={
-        languages.find(
-          (lang) => lang.code.toLowerCase() === currentLanguage.split('-')[0]
-        ) || null
-      }
+      value={selectedLanguage || null}
       inputValue={inputValue}
       onInputChange={(event, newInputValue) => {
         setInputValue(newInputValue);
@@ -84,6 +79,19 @@ export default function LanguageSelector() {
         <TextField
           {...params}
           label="Choose a language"
+          InputProps={{
+            ...params.InputProps,
+            startAdornment: selectedLanguage ? (
+              <img
+                loading="lazy"
+                width="20"
+                srcSet={`https://flagcdn.com/w40/${selectedLanguage.flagCode.toLowerCase()}.png 2x`}
+                src={`https://flagcdn.com/w20/${selectedLanguage.flagCode.toLowerCase()}.png`}
+                alt=""
+                style={{ marginRight: 8 }}
+              />
+            ) : null,
+          }}
           slotProps={{
             htmlInput: {
               ...params.inputProps,
