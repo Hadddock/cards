@@ -3,42 +3,16 @@ import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import './App.css';
-import { WordData } from './wordDataDefinitions';
-import Flashcard from './components/Flashcard';
+
 import LanguageSelector from './components/LanguageSelector';
 import { LanguageProvider } from './context/LanguageContext';
+import SearchBar from './components/SearchBar';
+import Deck from './components/Deck';
+import Flashcard from './components/Flashcard';
+import Preview from './components/Preview';
 
-const sampleWordData: WordData = {
-  word: 'computer',
-  level: 'A1',
-  partOfSpeech: 'noun (countable)',
-  meaning: new Map([['en', "комп'ютер"]]),
-  pronunciation: 'kəmˈpju·tə̬r',
-  definition:
-    'An electronic machine that can store and arrange large amounts of information.',
-  exampleSentences: [
-    'I use my computer to write emails.',
-    'She has a new computer at home.',
-    'There are lots of computers at the library.',
-  ],
-  exampleSentencesTranslations: new Map([
-    [
-      'en',
-      [
-        'Я використовую свій комп’ютер для написання електронних листів.',
-        'У неї вдома новий комп’ютер.',
-        'У бібліотеці багато комп’ютерів.',
-      ],
-    ],
-  ]),
-  icon: 'src/assets/icons/computer.svg',
-  images: ['src/assets/images/computer.jpg', 'src/assets/images/computer2.jpg'],
-  usageNotes: new Map(),
-  usageNotesEnglish: {
-    synonyms: ['PC', 'laptop'],
-    antonyms: [],
-  },
-};
+import decksData from './decks.json';
+import wordsData from './words.json';
 
 function App() {
   const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
@@ -53,13 +27,49 @@ function App() {
     [prefersDarkMode]
   );
 
+  const [searchResults, setSearchResults] = React.useState<
+    (Deck | Flashcard)[]
+  >([]);
+
+  const handleSearchChange = (query: string) => {
+    if (query === '') {
+      setSearchResults([]);
+      return;
+    }
+
+    const deckMatches = decksData.filter((deck) =>
+      deck.deckName.toLowerCase().includes(query.toLowerCase())
+    );
+
+    const cardMatches = wordsData.filter((word) =>
+      word.word.toLowerCase().includes(query.toLowerCase())
+    );
+
+    setSearchResults([...deckMatches, ...cardMatches]);
+  };
+
+  const handleItemSelect = (item: Deck | Flashcard) => {
+    console.log('Selected:', item);
+  };
+
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <LanguageProvider>
         <LanguageSelector />
-
-        <Flashcard wordData={sampleWordData} />
+        <SearchBar
+          decks={decksData}
+          cards={wordsData}
+          onSearchChange={handleSearchChange}
+        />
+        {searchResults.map((item, index) => (
+          <Preview
+            key={index}
+            type={'deckName' in item ? 'deck' : 'card'}
+            data={item}
+            onSelect={() => handleItemSelect(item)}
+          />
+        ))}
       </LanguageProvider>
     </ThemeProvider>
   );
