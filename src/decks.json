@@ -1,0 +1,30 @@
+[
+  {
+    "deckName": "Nouns",
+    "partOfSpeech": "n"
+  },
+
+  {
+    "deckName": "Verbs",
+    "partOfSpeech": "v",
+    "level": "A1"
+  },
+
+  {
+    "deckName": "Food",
+    "words": [
+      {
+        "word": "apple",
+        "partOfSpeech": "n"
+      },
+      {
+        "word": "banana",
+        "partOfSpeech": "n"
+      },
+      {
+        "word": "carrot",
+        "partOfSpeech": "n"
+      }
+    ]
+  }
+]
