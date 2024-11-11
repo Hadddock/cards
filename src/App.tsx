@@ -28,9 +28,8 @@ function App() {
   );
 
   const [searchQuery, setSearchQuery] = React.useState<string>('');
-  const [searchResults, setSearchResults] = React.useState<
-    (Deck | Flashcard)[]
-  >([]);
+  const [searchResults, setSearchResults] =
+    React.useState<(Deck | Flashcard)[]>(decksData); // Display all decks initially
 
   const handleSearchChange = (query: string) => {
     setSearchQuery(query);
