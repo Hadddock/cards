@@ -2,6 +2,7 @@ import * as React from 'react';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import useMediaQuery from '@mui/material/useMediaQuery';
+import { useEffect } from 'react';
 import './App.css';
 
 import LanguageSelector from './components/LanguageSelector';
@@ -53,6 +54,21 @@ function App() {
   const handleItemSelect = (item: Deck | Flashcard) => {
     console.log('Selected:', item);
   };
+
+  useEffect(() => {
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js').then(
+          (registration) => {
+            console.log('SW registered: ', registration);
+          },
+          (registrationError) => {
+            console.log('SW registration failed: ', registrationError);
+          }
+        );
+      });
+    }
+  }, []);
 
   return (
     <ThemeProvider theme={theme}>
