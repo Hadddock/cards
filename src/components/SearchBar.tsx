@@ -44,6 +44,7 @@ const SearchBar: React.FC<SearchBarProps> = ({
         />
       )}
       onChange={(event, value) => {
+        console.log(event);
         if (value) {
           onSearchChange('word' in value ? value.word : value.deckName);
         } else {
