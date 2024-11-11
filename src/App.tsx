@@ -27,13 +27,16 @@ function App() {
     [prefersDarkMode]
   );
 
+  const [searchQuery, setSearchQuery] = React.useState<string>('');
   const [searchResults, setSearchResults] = React.useState<
     (Deck | Flashcard)[]
   >([]);
 
   const handleSearchChange = (query: string) => {
+    setSearchQuery(query);
+
     if (query === '') {
-      setSearchResults([]);
+      setSearchResults(decksData); // Display all decks when no search query
       return;
     }
 
@@ -61,6 +64,7 @@ function App() {
           decks={decksData}
           cards={wordsData}
           onSearchChange={handleSearchChange}
+          searchQuery={searchQuery}
         />
         {searchResults.map((item, index) => (
           <Preview
