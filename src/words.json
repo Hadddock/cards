@@ -11,37 +11,37 @@
   },
   {
     "word": "about",
-    "partOfSpeech": ["prep", "adv"],
+    "partOfSpeech": ["preposition", "adverb"],
     "level": "A1"
   },
   {
     "word": "above",
-    "partOfSpeech": ["prep", "adv"],
+    "partOfSpeech": ["preposition", "adverb"],
     "level": "A1"
   },
   {
     "word": "across",
-    "partOfSpeech": ["prep", "adv"],
+    "partOfSpeech": ["preposition", "adverb"],
     "level": "A1"
   },
   {
     "word": "action",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "activity",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "actor",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "actress",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -51,47 +51,47 @@
   },
   {
     "word": "address",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "adult",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "advice",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "afraid",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "after",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
     "word": "afternoon",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "again",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "age",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "ago",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
@@ -101,102 +101,102 @@
   },
   {
     "word": "air",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "airport",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "all",
-    "partOfSpeech": ["det", "pron"],
+    "partOfSpeech": ["determiner", "pronoun"],
     "level": "A1"
   },
   {
     "word": "also",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "always",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "amazing",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "and",
-    "partOfSpeech": "conj",
+    "partOfSpeech": "conjunction",
     "level": "A1"
   },
   {
     "word": "angry",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "animal",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "another",
-    "partOfSpeech": ["det", "pron"],
+    "partOfSpeech": ["determiner", "pronoun"],
     "level": "A1"
   },
   {
     "word": "answer",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "any",
-    "partOfSpeech": ["det", "pron"],
+    "partOfSpeech": ["determiner", "pronoun"],
     "level": "A1"
   },
   {
     "word": "anyone",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "anything",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "apartment",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "apple",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "April",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "area",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "arm",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "around",
-    "partOfSpeech": ["prep", "adv"],
+    "partOfSpeech": ["preposition", "adverb"],
     "level": "A1"
   },
   {
@@ -206,22 +206,22 @@
   },
   {
     "word": "art",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "article",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "artist",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "as",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
@@ -231,113 +231,113 @@
   },
   {
     "word": "at",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
     "word": "August",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "aunt",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "away",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "awesome",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "baby",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "back",
-    "partOfSpeech": ["n", "adv"],
+    "partOfSpeech": ["noun", "adverb"],
     "level": "A1"
   },
   {
     "word": "bad",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "bag",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "ball",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "banana",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "band",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "bank",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "context": "money",
     "level": "A1"
   },
   {
     "word": "bar",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "baseball",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "basketball",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "bath",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "bathroom",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "be",
-    "partOfSpeech": ["verb", "auxiliary v"],
+    "partOfSpeech": ["verb", "auxiliary verb"],
     "level": "A1"
   },
   {
     "word": "beach",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "beautiful",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "because",
-    "partOfSpeech": "conj",
+    "partOfSpeech": "conjunction",
     "level": "A1"
   },
   {
@@ -347,22 +347,22 @@
   },
   {
     "word": "bed",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "bedroom",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "beer",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "before",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
@@ -372,12 +372,12 @@
   },
   {
     "word": "beginning",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "behind",
-    "partOfSpeech": ["prep", "adv"],
+    "partOfSpeech": ["preposition", "adverb"],
     "level": "A1"
   },
   {
@@ -387,102 +387,102 @@
   },
   {
     "word": "below",
-    "partOfSpeech": ["adv", "prep"],
+    "partOfSpeech": ["adverb", "preposition"],
     "level": "A1"
   },
   {
     "word": "best",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "better",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "between",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
     "word": "bicycle",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "big",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "bike",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "bill",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "bird",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "birthday",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "black",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
     "word": "blog",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "blond",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "blue",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
     "word": "boat",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "body",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "book",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "boot",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "bored",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "boring",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -492,42 +492,42 @@
   },
   {
     "word": "both",
-    "partOfSpeech": ["det", "pron"],
+    "partOfSpeech": ["determiner", "pronoun"],
     "level": "A1"
   },
   {
     "word": "bottle",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "box",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "boy",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "boyfriend",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "bread",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "break",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "breakfast",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -537,12 +537,12 @@
   },
   {
     "word": "brother",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "brown",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
@@ -552,32 +552,32 @@
   },
   {
     "word": "building",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "bus",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "business",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "busy",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "but",
-    "partOfSpeech": "conj",
+    "partOfSpeech": "conjunction",
     "level": "A1"
   },
   {
     "word": "butter",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -587,32 +587,32 @@
   },
   {
     "word": "by",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
     "word": "bye",
-    "partOfSpeech": "exclam",
+    "partOfSpeech": "exclamation",
     "level": "A1"
   },
   {
     "word": "cafe",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "cake",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "call",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "camera",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -627,27 +627,27 @@
   },
   {
     "word": "capital",
-    "partOfSpeech": ["n", "adj"],
+    "partOfSpeech": ["noun", "adjective"],
     "level": "A1"
   },
   {
     "word": "car",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "card",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "career",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "carrot",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -657,42 +657,42 @@
   },
   {
     "word": "cat",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "CD",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "cent",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "center",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "chair",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "change",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "chart",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "cheap",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -702,22 +702,22 @@
   },
   {
     "word": "cheese",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "chicken",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "child",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "chocolate",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -727,22 +727,22 @@
   },
   {
     "word": "city",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "class",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "classroom",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "clean",
-    "partOfSpeech": ["adj", "verb"],
+    "partOfSpeech": ["adjective", "verb"],
     "level": "A1"
   },
   {
@@ -752,7 +752,7 @@
   },
   {
     "word": "clock",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -762,37 +762,37 @@
   },
   {
     "word": "clothes",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "club",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "coat",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "coffee",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "cold",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
     "word": "college",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "color",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -802,12 +802,12 @@
   },
   {
     "word": "common",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "company",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -817,22 +817,22 @@
   },
   {
     "word": "complete",
-    "partOfSpeech": ["adj", "verb"],
+    "partOfSpeech": ["adjective", "verb"],
     "level": "A1"
   },
   {
     "word": "computer",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "concert",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "conversation",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -842,22 +842,22 @@
   },
   {
     "word": "cooking",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "cool",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "correct",
-    "partOfSpeech": ["adj", "verb"],
+    "partOfSpeech": ["adjective", "verb"],
     "level": "A1"
   },
   {
     "word": "cost",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
@@ -867,27 +867,27 @@
   },
   {
     "word": "country",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "course",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "cousin",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "cow",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "cream",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -897,17 +897,17 @@
   },
   {
     "word": "culture",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "cup",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "customer",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -917,57 +917,57 @@
   },
   {
     "word": "dad",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "dance",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "dancer",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "dancing",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "dangerous",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "dark",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "date",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "daughter",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "day",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "dear",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "December",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -977,7 +977,7 @@
   },
   {
     "word": "delicious",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -987,32 +987,32 @@
   },
   {
     "word": "description",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "design",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "desk",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "detail",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "dialogue",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "dictionary",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1022,32 +1022,32 @@
   },
   {
     "word": "diet",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "difference",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "different",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "difficult",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "dinner",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "dirty",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -1057,42 +1057,42 @@
   },
   {
     "word": "dish",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "do",
-    "partOfSpeech": ["verb", "auxiliary v"],
+    "partOfSpeech": ["verb", "auxiliary verb"],
     "level": "A1"
   },
   {
     "word": "doctor",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "dog",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "dollar",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "door",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "down",
-    "partOfSpeech": ["adv", "prep"],
+    "partOfSpeech": ["adverb", "preposition"],
     "level": "A1"
   },
   {
     "word": "downstairs",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
@@ -1102,12 +1102,12 @@
   },
   {
     "word": "dress",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "drink",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
@@ -1117,42 +1117,42 @@
   },
   {
     "word": "driver",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "during",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
     "word": "DVD",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "each",
-    "partOfSpeech": ["det", "pron", "adv"],
+    "partOfSpeech": ["determiner", "pronoun", "adverb"],
     "level": "A1"
   },
   {
     "word": "ear",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "early",
-    "partOfSpeech": ["adj", "adv"],
+    "partOfSpeech": ["adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "east",
-    "partOfSpeech": ["n", "adj", "adv"],
+    "partOfSpeech": ["noun", "adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "easy",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -1162,7 +1162,7 @@
   },
   {
     "word": "egg",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1182,7 +1182,7 @@
   },
   {
     "word": "elephant",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1192,17 +1192,17 @@
   },
   {
     "word": "else",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "email",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "end",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
@@ -1212,82 +1212,82 @@
   },
   {
     "word": "enough",
-    "partOfSpeech": ["det", "pron", "adv"],
+    "partOfSpeech": ["determiner", "pronoun", "adverb"],
     "level": "A1"
   },
   {
     "word": "euro",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "even",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "evening",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "event",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "ever",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "every",
-    "partOfSpeech": "det",
+    "partOfSpeech": "determiner",
     "level": "A1"
   },
   {
     "word": "everybody",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "everyone",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "everything",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "exam",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "example",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "excited",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "exciting",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "exercise",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "expensive",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -1297,87 +1297,87 @@
   },
   {
     "word": "extra",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "eye",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "face",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "fact",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "fall",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "false",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "family",
-    "partOfSpeech": ["n", "adj"],
+    "partOfSpeech": ["noun", "adjective"],
     "level": "A1"
   },
   {
     "word": "famous",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "fantastic",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "far",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "farm",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "farmer",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "fast",
-    "partOfSpeech": ["adj", "adv"],
+    "partOfSpeech": ["adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "fat",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "father",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "favorite",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
     "word": "February",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1387,17 +1387,17 @@
   },
   {
     "word": "feeling",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "festival",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "few",
-    "partOfSpeech": ["det", "adj", "pron"],
+    "partOfSpeech": ["determiner", "adjective", "pronoun"],
     "level": "A1"
   },
   {
@@ -1422,7 +1422,7 @@
   },
   {
     "word": "final",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -1432,7 +1432,7 @@
   },
   {
     "word": "fine",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -1442,17 +1442,17 @@
   },
   {
     "word": "fire",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "first",
-    "partOfSpeech": ["det", "number", "adv"],
+    "partOfSpeech": ["determiner", "number", "adverb"],
     "level": "A1"
   },
   {
     "word": "fish",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1462,17 +1462,17 @@
   },
   {
     "word": "flight",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "floor",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "flower",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1487,22 +1487,22 @@
   },
   {
     "word": "food",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "foot",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "football",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "for",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
@@ -1512,7 +1512,7 @@
   },
   {
     "word": "form",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
@@ -1537,72 +1537,72 @@
   },
   {
     "word": "free",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "Friday",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "friend",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "friendly",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "from",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
     "word": "front",
-    "partOfSpeech": ["n", "adj"],
+    "partOfSpeech": ["noun", "adjective"],
     "level": "A1"
   },
   {
     "word": "fruit",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "full",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "fun",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "funny",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "future",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "game",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "garden",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "geography",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1612,12 +1612,12 @@
   },
   {
     "word": "girl",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "girlfriend",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1627,7 +1627,7 @@
   },
   {
     "word": "glass",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1637,47 +1637,47 @@
   },
   {
     "word": "good",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "goodbye",
-    "partOfSpeech": ["exclam", "n"],
+    "partOfSpeech": ["exclamation", "noun"],
     "level": "A1"
   },
   {
     "word": "grandfather",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "grandmother",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "grandparent",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "gray",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
     "word": "great",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "green",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
     "word": "group",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1687,32 +1687,32 @@
   },
   {
     "word": "guess",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "guitar",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "gym",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "hair",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "half",
-    "partOfSpeech": ["n", "det", "pron"],
+    "partOfSpeech": ["noun", "determiner", "pronoun"],
     "level": "A1"
   },
   {
     "word": "hand",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1722,17 +1722,17 @@
   },
   {
     "word": "happy",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "hard",
-    "partOfSpeech": ["adj", "adv"],
+    "partOfSpeech": ["adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "hat",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1752,22 +1752,22 @@
   },
   {
     "word": "he",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "head",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "health",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "healthy",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -1777,67 +1777,67 @@
   },
   {
     "word": "hello",
-    "partOfSpeech": ["exclam", "n"],
+    "partOfSpeech": ["exclamation", "noun"],
     "level": "A1"
   },
   {
     "word": "help",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "her",
-    "partOfSpeech": ["pron", "det"],
+    "partOfSpeech": ["pronoun", "determiner"],
     "level": "A1"
   },
   {
     "word": "here",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "hey",
-    "partOfSpeech": "exclam",
+    "partOfSpeech": "exclamation",
     "level": "A1"
   },
   {
     "word": "hi",
-    "partOfSpeech": "exclam",
+    "partOfSpeech": "exclamation",
     "level": "A1"
   },
   {
     "word": "high",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "him",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "his",
-    "partOfSpeech": "det",
+    "partOfSpeech": "determiner",
     "level": "A1"
   },
   {
     "word": "history",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "hobby",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "home",
-    "partOfSpeech": ["n", "adv"],
+    "partOfSpeech": ["noun", "adverb"],
     "level": "A1"
   },
   {
     "word": "homework",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -1847,42 +1847,42 @@
   },
   {
     "word": "horse",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "hospital",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "hot",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "hotel",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "hour",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "house",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "how",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "however",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
@@ -1892,37 +1892,37 @@
   },
   {
     "word": "hungry",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "husband",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "I",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "ice",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "ice cream",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "idea",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "if",
-    "partOfSpeech": "conj",
+    "partOfSpeech": "conjunction",
     "level": "A1"
   },
   {
@@ -1932,7 +1932,7 @@
   },
   {
     "word": "important",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -1942,7 +1942,7 @@
   },
   {
     "word": "in",
-    "partOfSpeech": ["prep", "adv"],
+    "partOfSpeech": ["preposition", "adverb"],
     "level": "A1"
   },
   {
@@ -1952,37 +1952,37 @@
   },
   {
     "word": "information",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "interest",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "interested",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "interesting",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "internet",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "interview",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "into",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
@@ -1992,37 +1992,37 @@
   },
   {
     "word": "island",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "it",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "its",
-    "partOfSpeech": "det",
+    "partOfSpeech": "determiner",
     "level": "A1"
   },
   {
     "word": "jacket",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "January",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "jeans",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "job",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -2032,22 +2032,22 @@
   },
   {
     "word": "juice",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "July",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "June",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "just",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
@@ -2057,18 +2057,18 @@
   },
   {
     "word": "key",
-    "partOfSpeech": ["n", "adj"],
+    "partOfSpeech": ["noun", "adjective"],
     "level": "A1"
   },
   {
     "word": "kind",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "context": ["type"],
     "level": "A1"
   },
   {
     "word": "kitchen",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -2078,38 +2078,38 @@
   },
   {
     "word": "land",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "language",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "large",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "last",
-    "partOfSpeech": "det",
+    "partOfSpeech": "determiner",
     "context": ["final"],
     "level": "A1"
   },
   {
     "word": "late",
-    "partOfSpeech": ["adj", "adv"],
+    "partOfSpeech": ["adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "later",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "laugh",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
@@ -2124,17 +2124,17 @@
   },
   {
     "word": "left",
-    "partOfSpeech": ["adj", "adv", "n"],
+    "partOfSpeech": ["adjective", "adverb", "noun"],
     "level": "A1"
   },
   {
     "word": "leg",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "lesson",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -2144,12 +2144,12 @@
   },
   {
     "word": "letter",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "library",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -2159,18 +2159,18 @@
   },
   {
     "word": "life",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "light",
-    "partOfSpeech": ["n", "adj"],
+    "partOfSpeech": ["noun", "adjective"],
     "context": ["sun or lamp"],
     "level": "A1"
   },
   {
     "word": "like",
-    "partOfSpeech": ["prep"],
+    "partOfSpeech": ["preposition"],
     "context": ["similiar"],
     "level": "A1"
   },
@@ -2182,17 +2182,17 @@
   },
   {
     "word": "line",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "lion",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "list",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
@@ -2202,7 +2202,7 @@
   },
   {
     "word": "little",
-    "partOfSpeech": ["adj", "det", "pron"],
+    "partOfSpeech": ["adjective", "determiner", "pronoun"],
     "level": "A1"
   },
   {
@@ -2212,12 +2212,12 @@
   },
   {
     "word": "local",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "long",
-    "partOfSpeech": ["adj", "adv"],
+    "partOfSpeech": ["adjective", "adverb"],
     "level": "A1"
   },
   {
@@ -2232,32 +2232,32 @@
   },
   {
     "word": "lot",
-    "partOfSpeech": ["pron", "det", "adv"],
+    "partOfSpeech": ["pronoun", "determiner", "adverb"],
     "level": "A1"
   },
   {
     "word": "love",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "lunch",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "machine",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "magazine",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "main",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -2267,69 +2267,69 @@
   },
   {
     "word": "mall",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "man",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "many",
-    "partOfSpeech": ["det", "pron"],
+    "partOfSpeech": ["determiner", "pronoun"],
     "level": "A1"
   },
   {
     "word": "map",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "March",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "market",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "married",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "match",
-    "partOfSpeech": ["n"],
+    "partOfSpeech": ["noun"],
     "context": ["contest"],
     "level": "A1"
   },
   {
     "word": "match",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "context": ["correspond"],
     "level": "A1"
   },
   {
     "word": "May",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "maybe",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "me",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "meal",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -2339,12 +2339,12 @@
   },
   {
     "word": "meaning",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "meat",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -2354,42 +2354,42 @@
   },
   {
     "word": "meeting",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "member",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "menu",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "message",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "meter",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "midnight",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "mile",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "milk",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -2399,7 +2399,7 @@
   },
   {
     "word": "minute",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -2409,77 +2409,77 @@
   },
   {
     "word": "mistake",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "model",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "modern",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "mom",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "moment",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "Monday",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "money",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "month",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "more",
-    "partOfSpeech": ["det", "pron", "adv"],
+    "partOfSpeech": ["determiner", "pronoun", "adverb"],
     "level": "A1"
   },
   {
     "word": "morning",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "most",
-    "partOfSpeech": ["det", "pron", "adv"],
+    "partOfSpeech": ["determiner", "pronoun", "adverb"],
     "level": "A1"
   },
   {
     "word": "mother",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "mountain",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "mouse",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "mouth",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -2489,22 +2489,22 @@
   },
   {
     "word": "movie",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "much",
-    "partOfSpeech": ["det", "pron", "adv"],
+    "partOfSpeech": ["determiner", "pronoun", "adverb"],
     "level": "A1"
   },
   {
     "word": "museum",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "music",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -2514,22 +2514,22 @@
   },
   {
     "word": "my",
-    "partOfSpeech": "det",
+    "partOfSpeech": "determiner",
     "level": "A1"
   },
   {
     "word": "name",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "natural",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "near",
-    "partOfSpeech": ["prep", "adj", "adv"],
+    "partOfSpeech": ["preposition", "adjective", "adverb"],
     "level": "A1"
   },
   {
@@ -2539,57 +2539,57 @@
   },
   {
     "word": "negative",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "neighbor",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "neighborhood",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "never",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "new",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "news",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "newspaper",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "next",
-    "partOfSpeech": ["adj", "adv"],
+    "partOfSpeech": ["adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "next to",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
     "word": "nice",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "night",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -2609,277 +2609,277 @@
   },
   {
     "word": "no",
-    "partOfSpeech": ["exclam", "det"],
+    "partOfSpeech": ["exclamation", "determiner"],
     "level": "A1"
   },
   {
     "word": "no one",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "nobody",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "north",
-    "partOfSpeech": ["n", "adj", "adv"],
+    "partOfSpeech": ["noun", "adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "nose",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "not",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "note",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "nothing",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "November",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "now",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "number",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "nurse",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "object",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "ocean",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "o’clock",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "October",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "of",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
     "word": "off",
-    "partOfSpeech": ["adv", "prep"],
+    "partOfSpeech": ["adverb", "preposition"],
     "level": "A1"
   },
   {
     "word": "office",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "often",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "oh",
-    "partOfSpeech": "exclam",
+    "partOfSpeech": "exclamation",
     "level": "A1"
   },
   {
     "word": "OK",
-    "partOfSpeech": ["exclam", "adj", "adv"],
+    "partOfSpeech": ["exclamation", "adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "old",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "on",
-    "partOfSpeech": ["prep", "adv"],
+    "partOfSpeech": ["preposition", "adverb"],
     "level": "A1"
   },
   {
     "word": "once",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "one",
-    "partOfSpeech": ["number", "det", "pron"],
+    "partOfSpeech": ["number", "determiner", "pronoun"],
     "level": "A1"
   },
   {
     "word": "onion",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "online",
-    "partOfSpeech": ["adj", "adv"],
+    "partOfSpeech": ["adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "only",
-    "partOfSpeech": ["adj", "adv"],
+    "partOfSpeech": ["adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "open",
-    "partOfSpeech": ["adj", "verb"],
+    "partOfSpeech": ["adjective", "verb"],
     "level": "A1"
   },
   {
     "word": "opinion",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "opposite",
-    "partOfSpeech": ["adj", "n", "prep", "adv"],
+    "partOfSpeech": ["adjective", "noun", "preposition", "adverb"],
     "level": "A1"
   },
   {
     "word": "or",
-    "partOfSpeech": "conj",
+    "partOfSpeech": "conjunction",
     "level": "A1"
   },
   {
     "word": "orange",
-    "partOfSpeech": ["n", "adj"],
+    "partOfSpeech": ["noun", "adjective"],
     "level": "A1"
   },
   {
     "word": "order",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "other",
-    "partOfSpeech": ["adj", "pron"],
+    "partOfSpeech": ["adjective", "pronoun"],
     "level": "A1"
   },
   {
     "word": "our",
-    "partOfSpeech": "det",
+    "partOfSpeech": "determiner",
     "level": "A1"
   },
   {
     "word": "out",
-    "partOfSpeech": ["adv", "prep"],
+    "partOfSpeech": ["adverb", "preposition"],
     "level": "A1"
   },
   {
     "word": "outside",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "over",
-    "partOfSpeech": ["prep", "adv"],
+    "partOfSpeech": ["preposition", "adverb"],
     "level": "A1"
   },
   {
     "word": "own",
-    "partOfSpeech": ["adj", "pron", "verb"],
+    "partOfSpeech": ["adjective", "pronoun", "verb"],
     "level": "A1"
   },
   {
     "word": "page",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "paint",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "painting",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "pair",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "pants",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "paper",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "paragraph",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "parent",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "park",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "part",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "partner",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "party",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "passport",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "past",
-    "partOfSpeech": ["adj", "n", "prep"],
+    "partOfSpeech": ["adjective", "noun", "preposition"],
     "level": "A1"
   },
   {
@@ -2889,182 +2889,182 @@
   },
   {
     "word": "pen",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "pencil",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "people",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "pepper",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "perfect",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "period",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "person",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "personal",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "phone",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "photo",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "photograph",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "phrase",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "piano",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "picture",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "piece",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "pig",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "pink",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
     "word": "place",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "plan",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "plane",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "plant",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "play",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "player",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "please",
-    "partOfSpeech": "exclam",
+    "partOfSpeech": "exclamation",
     "level": "A1"
   },
   {
     "word": "point",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "police",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "policeman",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "pool",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "poor",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "popular",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "positive",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "possible",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "post",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "potato",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "pound",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "practice",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
@@ -3073,53 +3073,53 @@
     "level": "A1"
   },
   {
-    "word": "prepare",
+    "word": "prepositionare",
     "partOfSpeech": "verb",
     "level": "A1"
   },
   {
     "word": "present",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
     "word": "pretty",
-    "partOfSpeech": ["adj", "adv"],
+    "partOfSpeech": ["adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "price",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "probably",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "problem",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "product",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "program",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "project",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "purple",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
@@ -3129,42 +3129,42 @@
   },
   {
     "word": "quarter",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "question",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "quick",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "quickly",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "quiet",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "quite",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "radio",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "rain",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
@@ -3174,37 +3174,37 @@
   },
   {
     "word": "reader",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "reading",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "ready",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "real",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "really",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "reason",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "red",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
@@ -3224,32 +3224,32 @@
   },
   {
     "word": "report",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "restaurant",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "result",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "return",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "rice",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "rich",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -3259,32 +3259,32 @@
   },
   {
     "word": "right",
-    "partOfSpeech": ["adj", "adv", "n"],
+    "partOfSpeech": ["adjective", "adverb", "noun"],
     "level": "A1"
   },
   {
     "word": "river",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "road",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "room",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "routine",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "rule",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3294,32 +3294,32 @@
   },
   {
     "word": "sad",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "salad",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "salt",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "same",
-    "partOfSpeech": ["adj", "pron", "adv"],
+    "partOfSpeech": ["adjective", "pronoun", "adverb"],
     "level": "A1"
   },
   {
     "word": "sandwich",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "Saturday",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3329,34 +3329,34 @@
   },
   {
     "word": "school",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "science",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "scientist",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "second",
-    "partOfSpeech": ["det", "number"],
+    "partOfSpeech": ["determiner", "number"],
     "context": ["next after the first"],
     "level": "A1"
   },
   {
     "word": "second",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "context": ["unit of time"],
     "level": "A1"
   },
   {
     "word": "section",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3376,12 +3376,12 @@
   },
   {
     "word": "sentence",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "September",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3406,37 +3406,37 @@
   },
   {
     "word": "she",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "sheep",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "shirt",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "shoe",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "shop",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "shopping",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "short",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -3446,22 +3446,22 @@
   },
   {
     "word": "show",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "shower",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "sick",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "similar",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -3471,12 +3471,12 @@
   },
   {
     "word": "singer",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "sister",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3486,7 +3486,7 @@
   },
   {
     "word": "situation",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3506,12 +3506,12 @@
   },
   {
     "word": "skill",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "skirt",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3521,97 +3521,97 @@
   },
   {
     "word": "slow",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "small",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "smart",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "snake",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "snow",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "so",
-    "partOfSpeech": ["adv", "conj"],
+    "partOfSpeech": ["adverb", "conjunction"],
     "level": "A1"
   },
   {
     "word": "some",
-    "partOfSpeech": ["det", "pron"],
+    "partOfSpeech": ["determiner", "pronoun"],
     "level": "A1"
   },
   {
     "word": "somebody",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "someone",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "something",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "sometimes",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "son",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "song",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "soon",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "sorry",
-    "partOfSpeech": ["adj", "exclam"],
+    "partOfSpeech": ["adjective", "exclamation"],
     "level": "A1"
   },
   {
     "word": "sound",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "soup",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "south",
-    "partOfSpeech": ["n", "adj", "adv"],
+    "partOfSpeech": ["noun", "adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "space",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3621,7 +3621,7 @@
   },
   {
     "word": "special",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -3631,7 +3631,7 @@
   },
   {
     "word": "spelling",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3641,12 +3641,12 @@
   },
   {
     "word": "sport",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "spring",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3656,7 +3656,7 @@
   },
   {
     "word": "star",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3666,12 +3666,12 @@
   },
   {
     "word": "statement",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "station",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3681,92 +3681,92 @@
   },
   {
     "word": "still",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "stop",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "store",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "story",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "street",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "strong",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "student",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "study",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "style",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "subject",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "success",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "sugar",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "summer",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "sun",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "Sunday",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "supermarket",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "sure",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "sweater",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3776,12 +3776,12 @@
   },
   {
     "word": "swimming",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "table",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3796,17 +3796,17 @@
   },
   {
     "word": "tall",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "taxi",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "tea",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3816,27 +3816,27 @@
   },
   {
     "word": "teacher",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "team",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "teenager",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "telephone",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "television",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3851,27 +3851,27 @@
   },
   {
     "word": "tennis",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "terrible",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "test",
-    "partOfSpeech": ["n", "verb"],
+    "partOfSpeech": ["noun", "verb"],
     "level": "A1"
   },
   {
     "word": "text",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "than",
-    "partOfSpeech": "conj",
+    "partOfSpeech": "conjunction",
     "level": "A1"
   },
   {
@@ -3881,12 +3881,12 @@
   },
   {
     "word": "thanks",
-    "partOfSpeech": ["exclam", "n"],
+    "partOfSpeech": ["exclamation", "noun"],
     "level": "A1"
   },
   {
     "word": "that",
-    "partOfSpeech": ["det", "pron", "conj"],
+    "partOfSpeech": ["determiner", "pronoun", "conjunction"],
     "level": "A1"
   },
   {
@@ -3896,37 +3896,37 @@
   },
   {
     "word": "theater",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "their",
-    "partOfSpeech": "det",
+    "partOfSpeech": "determiner",
     "level": "A1"
   },
   {
     "word": "them",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "then",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "there",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "they",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "thing",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -3941,7 +3941,7 @@
   },
   {
     "word": "thirsty",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -3956,7 +3956,7 @@
   },
   {
     "word": "this",
-    "partOfSpeech": ["det", "pron"],
+    "partOfSpeech": ["determiner", "pronoun"],
     "level": "A1"
   },
   {
@@ -3971,127 +3971,127 @@
   },
   {
     "word": "through",
-    "partOfSpeech": ["prep", "adv"],
+    "partOfSpeech": ["preposition", "adverb"],
     "level": "A1"
   },
   {
     "word": "Thursday",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "ticket",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "time",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "tired",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "title",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "to",
-    "partOfSpeech": ["prep", "infinitive marker"],
+    "partOfSpeech": ["preposition", "infinitive marker"],
     "level": "A1"
   },
   {
     "word": "today",
-    "partOfSpeech": ["adv", "n"],
+    "partOfSpeech": ["adverb", "noun"],
     "level": "A1"
   },
   {
     "word": "together",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "toilet",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "tomato",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "tomorrow",
-    "partOfSpeech": ["adv", "n"],
+    "partOfSpeech": ["adverb", "noun"],
     "level": "A1"
   },
   {
     "word": "tonight",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "too",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "tooth",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "topic",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "tourist",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "town",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "traffic",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "train",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "travel",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "tree",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "trip",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "truck",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "true",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -4101,22 +4101,22 @@
   },
   {
     "word": "T-shirt",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "Tuesday",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "turn",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "TV",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -4131,7 +4131,7 @@
   },
   {
     "word": "twice",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
@@ -4141,22 +4141,22 @@
   },
   {
     "word": "type",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "umbrella",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "uncle",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "under",
-    "partOfSpeech": ["prep", "adv"],
+    "partOfSpeech": ["preposition", "adverb"],
     "level": "A1"
   },
   {
@@ -4166,27 +4166,27 @@
   },
   {
     "word": "university",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "until",
-    "partOfSpeech": ["conj", "prep"],
+    "partOfSpeech": ["conjunction", "preposition"],
     "level": "A1"
   },
   {
     "word": "up",
-    "partOfSpeech": ["adv", "prep"],
+    "partOfSpeech": ["adverb", "preposition"],
     "level": "A1"
   },
   {
     "word": "upstairs",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "us",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
@@ -4196,42 +4196,42 @@
   },
   {
     "word": "useful",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "usually",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "vacation",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "vegetable",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "very",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "video",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "visit",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "visitor",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -4241,7 +4241,7 @@
   },
   {
     "word": "waiter",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -4251,12 +4251,12 @@
   },
   {
     "word": "walk",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "wall",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -4266,7 +4266,7 @@
   },
   {
     "word": "warm",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
@@ -4276,22 +4276,22 @@
   },
   {
     "word": "watch",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "water",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "way",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "we",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
@@ -4301,82 +4301,82 @@
   },
   {
     "word": "weather",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "website",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "Wednesday",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "week",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "weekend",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "welcome",
-    "partOfSpeech": ["exclam", "verb", "adj"],
+    "partOfSpeech": ["exclamation", "verb", "adjective"],
     "level": "A1"
   },
   {
     "word": "well",
-    "partOfSpeech": ["adv", "adj", "exclam"],
+    "partOfSpeech": ["adverb", "adjective", "exclamation"],
     "level": "A1"
   },
   {
     "word": "west",
-    "partOfSpeech": ["n", "adj", "adv"],
+    "partOfSpeech": ["noun", "adjective", "adverb"],
     "level": "A1"
   },
   {
     "word": "what",
-    "partOfSpeech": ["pron", "det"],
+    "partOfSpeech": ["pronoun", "determiner"],
     "level": "A1"
   },
   {
     "word": "when",
-    "partOfSpeech": ["adv", "pron", "conj"],
+    "partOfSpeech": ["adverb", "pronoun", "conjunction"],
     "level": "A1"
   },
   {
     "word": "where",
-    "partOfSpeech": ["adv", "conj"],
+    "partOfSpeech": ["adverb", "conjunction"],
     "level": "A1"
   },
   {
     "word": "which",
-    "partOfSpeech": ["pron", "det"],
+    "partOfSpeech": ["pronoun", "determiner"],
     "level": "A1"
   },
   {
     "word": "white",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
     "word": "who",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "why",
-    "partOfSpeech": "adv",
+    "partOfSpeech": "adverb",
     "level": "A1"
   },
   {
     "word": "wife",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -4391,57 +4391,57 @@
   },
   {
     "word": "window",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "wine",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "winter",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "with",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
     "word": "without",
-    "partOfSpeech": "prep",
+    "partOfSpeech": "preposition",
     "level": "A1"
   },
   {
     "word": "woman",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "wonderful",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "word",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "work",
-    "partOfSpeech": ["verb", "n"],
+    "partOfSpeech": ["verb", "noun"],
     "level": "A1"
   },
   {
     "word": "worker",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "world",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
@@ -4456,67 +4456,67 @@
   },
   {
     "word": "writer",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "writing",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "wrong",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "yard",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "yeah",
-    "partOfSpeech": "exclam",
+    "partOfSpeech": "exclamation",
     "level": "A1"
   },
   {
     "word": "year",
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "level": "A1"
   },
   {
     "word": "yellow",
-    "partOfSpeech": ["adj", "n"],
+    "partOfSpeech": ["adjective", "noun"],
     "level": "A1"
   },
   {
     "word": "yes",
-    "partOfSpeech": "exclam",
+    "partOfSpeech": "exclamation",
     "level": "A1"
   },
   {
     "word": "yesterday",
-    "partOfSpeech": ["adv", "n"],
+    "partOfSpeech": ["adverb", "noun"],
     "level": "A1"
   },
   {
     "word": "you",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   },
   {
     "word": "young",
-    "partOfSpeech": "adj",
+    "partOfSpeech": "adjective",
     "level": "A1"
   },
   {
     "word": "your",
-    "partOfSpeech": "det",
+    "partOfSpeech": "determiner",
     "level": "A1"
   },
   {
     "word": "yourself",
-    "partOfSpeech": "pron",
+    "partOfSpeech": "pronoun",
     "level": "A1"
   }
 ]
