@@ -1,0 +1,107 @@
+{
+  "words": {
+    "zero": {
+      "English": "zero",
+      "Spanish": "cero",
+      "Ukrainian": "нуль",
+      "Arabic": "صفر"
+    },
+    "one": {
+      "English": "one",
+      "Spanish": "uno",
+      "Ukrainian": "один",
+      "Arabic": "واحد"
+    },
+    "two": {
+      "English": "two",
+      "Spanish": "dos",
+      "Ukrainian": "два",
+      "Arabic": "اثنين"
+    },
+    "three": {
+      "English": "three",
+      "Spanish": "tres",
+      "Ukrainian": "три",
+      "Arabic": "ثلاثة"
+    },
+    "four": {
+      "English": "four",
+      "Spanish": "cuatro",
+      "Ukrainian": "чотири",
+      "Arabic": "أربعة"
+    },
+    "five": {
+      "English": "five",
+      "Spanish": "cinco",
+      "Ukrainian": "п'ять",
+      "Arabic": "خمسة"
+    },
+    "six": {
+      "English": "six",
+      "Spanish": "seis",
+      "Ukrainian": "шість",
+      "Arabic": "ستة"
+    },
+    "seven": {
+      "English": "seven",
+      "Spanish": "siete",
+      "Ukrainian": "сім",
+      "Arabic": "سبعة"
+    },
+    "eight": {
+      "English": "eight",
+      "Spanish": "ocho",
+      "Ukrainian": "вісім",
+      "Arabic": "ثمانية"
+    },
+    "nine": {
+      "English": "nine",
+      "Spanish": "nueve",
+      "Ukrainian": "дев'ять",
+      "Arabic": "تسعة"
+    }
+  },
+
+  "numerals": {
+    "0": {
+      "English": "0",
+      "Arabic": "٠"
+    },
+    "1": {
+      "English": "1",
+      "Arabic": "١"
+    },
+    "2": {
+      "English": "2",
+      "Arabic": "٢"
+    },
+    "3": {
+      "English": "3",
+      "Arabic": "٣"
+    },
+    "4": {
+      "English": "4",
+      "Arabic": "٤"
+    },
+    "5": {
+      "English": "5",
+      "Arabic": "٥"
+    },
+    "6": {
+      "English": "6",
+      "Arabic": "٦"
+    },
+    "7": {
+      "English": "7",
+      "Arabic": "٧"
+    },
+    "8": {
+      "English": "8",
+      "Arabic": "٨"
+    },
+    "9": {
+      "English": "9",
+      "Arabic": "٩"
+    }
+  }
+}
