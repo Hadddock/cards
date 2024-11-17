@@ -1,11 +1,18 @@
 import React from 'react';
 import DeckView from '../components/DeckView';
+import NumberCard from '../components/NumberCard';
+import Card from '../components/Card';
 
-const cards = [
-  { title: 'Card 1', content: 'Content of Card 1' },
-  { title: 'Card 2', content: 'Content of Card 2' },
-  { title: 'Card 3', content: 'Content of Card 3' },
-];
+const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+const cards = numbers.map((i) => ({
+  title: `${i}`,
+  content: (
+    <Card title={`Card ${i}`} key={i}>
+      <NumberCard number={i} frames={[]} />
+    </Card>
+  ),
+}));
 
 const DeckPage: React.FC = () => {
   return (
