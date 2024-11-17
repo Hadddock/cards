@@ -3,451 +3,572 @@
     "Code": "af",
     "NativeName": "Afrikaans",
     "Flag": "🇿🇦",
+    "FlagCode": "ZA",
     "EnglishName": "Afrikaans"
   },
   {
     "Code": "sq",
     "NativeName": "Shqip",
     "Flag": "🇦🇱",
+    "FlagCode": "AL",
     "EnglishName": "Albanian"
   },
   {
     "Code": "am",
     "NativeName": "አማርኛ",
     "Flag": "🇪🇹",
+    "FlagCode": "ET",
     "EnglishName": "Amharic"
   },
   {
     "Code": "en-AU",
     "NativeName": "English (Australia)",
     "Flag": "🇦🇺",
+    "FlagCode": "AU",
     "EnglishName": "English"
   },
   {
     "Code": "en-CA",
     "NativeName": "English (Canada)",
     "Flag": "🇨🇦",
+    "FlagCode": "CA",
     "EnglishName": "English"
   },
   {
     "Code": "en-GB",
     "NativeName": "English (United Kingdom)",
     "Flag": "🇬🇧",
+    "FlagCode": "GB",
     "EnglishName": "English"
   },
   {
     "Code": "en",
     "NativeName": "English",
     "Flag": "🇺🇸",
+    "FlagCode": "US",
     "EnglishName": "English"
   },
   {
     "Code": "ar",
     "NativeName": "العربية",
     "Flag": "🇸🇦",
+    "FlagCode": "SA",
     "EnglishName": "Arabic"
   },
   {
     "Code": "hy",
     "NativeName": "Հայերեն",
     "Flag": "🇦🇲",
+    "FlagCode": "AM",
     "EnglishName": "Armenian"
   },
-  { "Code": "my", "NativeName": "ဗမာ", "Flag": "🇲🇲", "EnglishName": "Burmese" },
+  {
+    "Code": "my",
+    "NativeName": "ဗမာ",
+    "Flag": "🇲🇲",
+    "FlagCode": "MM",
+    "EnglishName": "Burmese"
+  },
   {
     "Code": "eu",
     "NativeName": "Euskara",
     "Flag": "🇪🇸",
+    "FlagCode": "ES",
     "EnglishName": "Basque"
   },
   {
     "Code": "bn",
     "NativeName": "বাংলা",
     "Flag": "🇧🇩",
+    "FlagCode": "BD",
     "EnglishName": "Bengali"
   },
   {
     "Code": "bg",
     "NativeName": "Български",
     "Flag": "🇧🇬",
+    "FlagCode": "BG",
     "EnglishName": "Bulgarian"
   },
   {
     "Code": "be",
     "NativeName": "Беларуская",
     "Flag": "🇧🇾",
+    "FlagCode": "BY",
     "EnglishName": "Belarusian"
   },
   {
     "Code": "hr",
     "NativeName": "Hrvatski",
     "Flag": "🇭🇷",
+    "FlagCode": "HR",
     "EnglishName": "Croatian"
   },
   {
     "Code": "da",
     "NativeName": "Dansk",
     "Flag": "🇩🇰",
+    "FlagCode": "DK",
     "EnglishName": "Danish"
   },
   {
     "Code": "et",
     "NativeName": "Eesti",
     "Flag": "🇪🇪",
+    "FlagCode": "EE",
     "EnglishName": "Estonian"
   },
   {
     "Code": "tl",
     "NativeName": "Filipino",
     "Flag": "🇵🇭",
+    "FlagCode": "PH",
     "EnglishName": "Filipino"
   },
   {
     "Code": "fi",
     "NativeName": "Suomi",
     "Flag": "🇫🇮",
+    "FlagCode": "FI",
     "EnglishName": "Finnish"
   },
   {
     "Code": "fr-FR",
     "NativeName": "Français (France)",
     "Flag": "🇫🇷",
+    "FlagCode": "FR",
     "EnglishName": "French"
   },
   {
     "Code": "fr-CA",
     "NativeName": "Français (Canada)",
     "Flag": "🇨🇦",
+    "FlagCode": "CA",
     "EnglishName": "French"
   },
   {
     "Code": "gl",
     "NativeName": "Galego",
     "Flag": "🇪🇸",
+    "FlagCode": "ES",
     "EnglishName": "Galician"
   },
   {
     "Code": "ka",
     "NativeName": "ქართული",
     "Flag": "🇬🇪",
+    "FlagCode": "GE",
     "EnglishName": "Georgian"
   },
   {
     "Code": "gu",
     "NativeName": "ગુજરાતી",
     "Flag": "🇮🇳",
+    "FlagCode": "IN",
     "EnglishName": "Gujarati"
   },
   {
     "Code": "he",
     "NativeName": "עברית",
     "Flag": "🇮🇱",
+    "FlagCode": "IL",
     "EnglishName": "Hebrew"
   },
   {
     "Code": "hi",
     "NativeName": "हिन्दी",
     "Flag": "🇮🇳",
+    "FlagCode": "IN",
     "EnglishName": "Hindi"
   },
   {
     "Code": "id",
     "NativeName": "Indonesia",
     "Flag": "🇮🇩",
+    "FlagCode": "ID",
     "EnglishName": "Indonesian"
   },
   {
     "Code": "is",
     "NativeName": "Íslenska",
     "Flag": "🇮🇸",
+    "FlagCode": "IS",
     "EnglishName": "Icelandic"
   },
   {
     "Code": "it",
     "NativeName": "Italiano",
     "Flag": "🇮🇹",
+    "FlagCode": "IT",
     "EnglishName": "Italian"
   },
   {
     "Code": "ja",
     "NativeName": "日本語",
     "Flag": "🇯🇵",
+    "FlagCode": "JP",
+
     "EnglishName": "Japanese"
   },
   {
     "Code": "kn",
     "NativeName": "ಕನ್ನಡ",
     "Flag": "🇮🇳",
+    "FlagCode": "IN",
     "EnglishName": "Kannada"
   },
   {
     "Code": "ca",
     "NativeName": "Català",
     "Flag": "🇪🇸",
+    "FlagCode": "ES",
     "EnglishName": "Catalan"
   },
   {
     "Code": "kk",
     "NativeName": "Қазақ тілі",
     "Flag": "🇰🇿",
+    "FlagCode": "KZ",
     "EnglishName": "Kazakh"
   },
-  { "Code": "km", "NativeName": "ខ្មែរ", "Flag": "🇰🇭", "EnglishName": "Khmer" },
+  {
+    "Code": "km",
+    "NativeName": "ខ្មែរ",
+    "Flag": "🇰🇭",
+    "FlagCode": "KH",
+    "EnglishName": "Khmer"
+  },
   {
     "Code": "ko",
     "NativeName": "한국어",
     "Flag": "🇰🇷",
+    "FlagCode": "KR",
     "EnglishName": "Korean"
   },
   {
     "Code": "ky",
     "NativeName": "Кыргызча",
     "Flag": "🇰🇬",
+    "FlagCode": "KG",
     "EnglishName": "Kyrgyz"
   },
-  { "Code": "lo", "NativeName": "ລາວ", "Flag": "🇱🇦", "EnglishName": "Lao" },
+  {
+    "Code": "lo",
+    "NativeName": "ລາວ",
+    "Flag": "🇱🇦",
+    "FlagCode": "LA",
+    "EnglishName": "Lao"
+  },
   {
     "Code": "lt",
     "NativeName": "Lietuvių",
     "Flag": "🇱🇹",
+    "FlagCode": "LT",
     "EnglishName": "Lithuanian"
   },
   {
     "Code": "lv",
     "NativeName": "Latviešu",
     "Flag": "🇱🇻",
+    "FlagCode": "LV",
     "EnglishName": "Latvian"
   },
   {
     "Code": "mk",
     "NativeName": "Македонски",
     "Flag": "🇲🇰",
+    "FlagCode": "MK",
     "EnglishName": "Macedonian"
   },
   {
     "Code": "ml",
     "NativeName": "മലയാളം",
     "Flag": "🇮🇳",
+    "FlagCode": "IN",
+
     "EnglishName": "Malayalam"
   },
   {
     "Code": "ms-MY",
     "NativeName": "Bahasa Melayu (Malaysia)",
     "Flag": "🇲🇾",
+    "FlagCode": "MY",
     "EnglishName": "Malay (Malaysia)"
   },
   {
     "Code": "ms",
     "NativeName": "Bahasa Melayu",
     "Flag": "🇲🇾",
+    "FlagCode": "MY",
     "EnglishName": "Malay"
   },
   {
     "Code": "mr",
     "NativeName": "मराठी",
     "Flag": "🇮🇳",
+    "FlagCode": "IN",
     "EnglishName": "Marathi"
   },
   {
     "Code": "hu",
     "NativeName": "Magyar",
     "Flag": "🇭🇺",
+    "FlagCode": "HU",
     "EnglishName": "Hungarian"
   },
   {
     "Code": "mn",
     "NativeName": "Монгол",
     "Flag": "🇲🇳",
+    "FlagCode": "MN",
     "EnglishName": "Mongolian"
   },
   {
     "Code": "ne",
     "NativeName": "नेपाली",
     "Flag": "🇳🇵",
+    "FlagCode": "NP",
     "EnglishName": "Nepali"
   },
   {
     "Code": "nl",
     "NativeName": "Nederlands",
     "Flag": "🇳🇱",
+    "FlagCode": "NL",
     "EnglishName": "Dutch"
   },
   {
     "Code": "no",
     "NativeName": "Norsk",
     "Flag": "🇳🇴",
+    "FlagCode": "NO",
     "EnglishName": "Norwegian"
   },
   {
     "Code": "de",
     "NativeName": "Deutsch",
     "Flag": "🇩🇪",
+    "FlagCode": "DE",
     "EnglishName": "German"
   },
   {
     "Code": "pa",
     "NativeName": "ਪੰਜਾਬੀ",
     "Flag": "🇮🇳",
+    "FlagCode": "IN",
+
     "EnglishName": "Punjabi"
   },
   {
     "Code": "fa",
     "NativeName": "فارسی",
     "Flag": "🇮🇷",
+    "FlagCode": "IR",
     "EnglishName": "Persian"
   },
   {
     "Code": "pl",
     "NativeName": "Polski",
     "Flag": "🇵🇱",
+    "FlagCode": "PL",
     "EnglishName": "Polish"
   },
   {
     "Code": "pt-BR",
     "NativeName": "Português (Brasil)",
     "Flag": "🇧🇷",
+    "FlagCode": "BR",
     "EnglishName": "Portuguese (Brazil)"
   },
   {
     "Code": "pt-PT",
     "NativeName": "Português (Portugal)",
     "Flag": "🇵🇹",
+    "FlagCode": "PT",
     "EnglishName": "Portuguese (Portugal)"
   },
   {
     "Code": "ro",
     "NativeName": "Română",
     "Flag": "🇷🇴",
+    "FlagCode": "RO",
     "EnglishName": "Romanian"
   },
   {
     "Code": "ru",
     "NativeName": "Русский",
     "Flag": "🇷🇺",
+    "FlagCode": "RU",
     "EnglishName": "Russian"
   },
   {
     "Code": "rm",
     "NativeName": "Rumantsch",
     "Flag": "🇨🇭",
+    "FlagCode": "CH",
     "EnglishName": "Romansh"
   },
   {
     "Code": "si",
     "NativeName": "සිංහල",
     "Flag": "🇱🇰",
+    "FlagCode": "LK",
     "EnglishName": "Sinhala"
   },
   {
     "Code": "sk",
     "NativeName": "Slovenčina",
     "Flag": "🇸🇰",
+    "FlagCode": "SK",
     "EnglishName": "Slovak"
   },
   {
     "Code": "sl",
     "NativeName": "Slovenščina",
     "Flag": "🇸🇮",
+    "FlagCode": "SI",
     "EnglishName": "Slovenian"
   },
   {
     "Code": "sr",
     "NativeName": "Српски",
     "Flag": "🇷🇸",
+    "FlagCode": "RS",
     "EnglishName": "Serbian"
   },
   {
     "Code": "sw",
     "NativeName": "Kiswahili",
     "Flag": "🇹🇿",
+    "FlagCode": "TZ",
     "EnglishName": "Swahili"
   },
-  { "Code": "ta", "NativeName": "தமிழ்", "Flag": "🇮🇳", "EnglishName": "Tamil" },
+  {
+    "Code": "ta",
+    "NativeName": "தமிழ்",
+    "Flag": "🇮🇳",
+    "FlagCode": "IN",
+
+    "EnglishName": "Tamil"
+  },
   {
     "Code": "te",
     "NativeName": "తెలుగు",
     "Flag": "🇮🇳",
+    "FlagCode": "IN",
     "EnglishName": "Telugu"
   },
-  { "Code": "th", "NativeName": "ไทย", "Flag": "🇹🇭", "EnglishName": "Thai" },
+  {
+    "Code": "th",
+    "NativeName": "ไทย",
+    "Flag": "🇹🇭",
+    "FlagCode": "TH",
+    "EnglishName": "Thai"
+  },
   {
     "Code": "tr",
     "NativeName": "Türkçe",
     "Flag": "🇹🇷",
+    "FlagCode": "TR",
     "EnglishName": "Turkish"
   },
   {
     "Code": "uk",
     "NativeName": "Українська",
     "Flag": "🇺🇦",
+    "FlagCode": "UA",
     "EnglishName": "Ukrainian"
   },
-  { "Code": "ur", "NativeName": "اردو", "Flag": "🇵🇰", "EnglishName": "Urdu" },
+  {
+    "Code": "ur",
+    "NativeName": "اردو",
+    "Flag": "🇵🇰",
+    "FlagCode": "PK",
+    "EnglishName": "Urdu"
+  },
   {
     "Code": "vi",
     "NativeName": "Tiếng Việt",
     "Flag": "🇻🇳",
+    "FlagCode": "VN",
     "EnglishName": "Vietnamese"
   },
-  { "Code": "zu", "NativeName": "Zulu", "Flag": "🇿🇦", "EnglishName": "Zulu" },
+  {
+    "Code": "zu",
+    "NativeName": "Zulu",
+    "Flag": "🇿🇦",
+    "FlagCode": "ZA",
+    "EnglishName": "Zulu"
+  },
   {
     "Code": "az",
     "NativeName": "Azərbaycan dili",
     "Flag": "🇦🇿",
+    "FlagCode": "AZ",
     "EnglishName": "Azerbaijani"
   },
   {
     "Code": "cs",
     "NativeName": "Čeština",
     "Flag": "🇨🇿",
+    "FlagCode": "CZ",
     "EnglishName": "Czech"
   },
   {
     "Code": "zh-HK",
     "NativeName": "中文（香港）",
-    "EnglishName": "Chinese (Hong Kong)",
-    "Flag": "🇭🇰"
+    "Flag": "🇭🇰",
+    "FlagCode": "HK",
+    "EnglishName": "Chinese (Hong Kong)"
   },
   {
     "Code": "zh-TW",
     "NativeName": "中文（繁體）",
-    "EnglishName": "Chinese (Traditional)",
-    "Flag": "🇹🇼"
+    "Flag": "🇹🇼",
+    "FlagCode": "TW",
+    "EnglishName": "Chinese (Traditional)"
   },
   {
     "Code": "zh",
     "NativeName": "中文（简体）",
-    "EnglishName": "Chinese (Simplified)",
-    "Flag": "🇨🇳"
+    "Flag": "🇨🇳",
+    "FlagCode": "CN",
+    "EnglishName": "Chinese (Simplified)"
   },
   {
     "Code": "el",
     "NativeName": "Ελληνικά",
-    "EnglishName": "Greek",
-    "Flag": "🇬🇷"
+    "Flag": "🇬🇷",
+    "FlagCode": "GR",
+    "EnglishName": "Greek"
   },
   {
     "Code": "es-419",
     "NativeName": "Español (Latinoamérica)",
     "EnglishName": "Spanish (Latin America)",
-    "Flag": "🌎"
+    "Flag": "🌎",
+    "FlagCode": "419"
   },
   {
     "Code": "es-US",
     "NativeName": "Español (Estados Unidos)",
     "EnglishName": "Spanish (United States)",
-    "Flag": "🇺🇸"
+
+    "Flag": "🇺🇸",
+    "FlagCode": "US"
   },
   {
     "Code": "es",
     "NativeName": "Español (España)",
-    "EnglishName": "Spanish (Spain)",
-    "Flag": "🇪🇸"
+    "Flag": "🇪🇸",
+    "FlagCode": "ES",
+    "EnglishName": "Spanish (Spain)"
   },
   {
     "Code": "sv",
     "NativeName": "Svenska",
     "EnglishName": "Swedish",
+    "FlagCode": "SE",
     "Flag": "🇸🇪"
   }
 ]
