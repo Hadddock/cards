@@ -3,26 +3,20 @@ import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 import { useLanguage } from '../context/LanguageContext';
+import languages from '../languages.json';
 
-const languages: readonly LanguageType[] = [
-  { code: 'EN', label: 'English', nativeLabel: 'English', flagCode: 'gb' },
-  { code: 'ES', label: 'Spanish', nativeLabel: 'Español', flagCode: 'es' },
-  { code: 'FR', label: 'French', nativeLabel: 'Français', flagCode: 'fr' },
-  { code: 'DE', label: 'German', nativeLabel: 'Deutsch', flagCode: 'de' },
-  { code: 'ZH', label: 'Chinese', nativeLabel: '中文', flagCode: 'cn' },
-  { code: 'JA', label: 'Japanese', nativeLabel: '日本語', flagCode: 'jp' },
-  { code: 'RU', label: 'Russian', nativeLabel: 'Русский', flagCode: 'ru' },
-  { code: 'AR', label: 'Arabic', nativeLabel: 'العربية', flagCode: 'sa' },
-  { code: 'HI', label: 'Hindi', nativeLabel: 'हिन्दी', flagCode: 'in' },
-  { code: 'PT', label: 'Portuguese', nativeLabel: 'Português', flagCode: 'pt' },
-];
+interface LanguageSelectorProps {
+  onLanguageChange: (language: string) => void;
+}
 
-export default function LanguageSelector() {
+const LanguageSelector: React.FC<LanguageSelectorProps> = ({
+  onLanguageChange,
+}) => {
   const { currentLanguage, setCurrentLanguage } = useLanguage();
   const [inputValue, setInputValue] = React.useState('');
 
   const selectedLanguage = languages.find(
-    (lang) => lang.code.toLowerCase() === currentLanguage.split('-')[0]
+    (lang) => lang.Code.toLowerCase() === currentLanguage.split('-')[0]
   );
 
   return (
@@ -36,25 +30,27 @@ export default function LanguageSelector() {
       value={selectedLanguage || null}
       inputValue={inputValue}
       onInputChange={(event, newInputValue) => {
-        console.log(event);
         setInputValue(newInputValue);
       }}
       onChange={(event, newValue) => {
         if (newValue) {
-          console.log(event);
-          setCurrentLanguage(newValue.code.toLowerCase());
+          setCurrentLanguage(newValue.Code.toLowerCase());
+          onLanguageChange(newValue.Code.toLowerCase());
+          console.log(newValue.Code.toLowerCase());
         }
       }}
-      getOptionLabel={(option) => `${option.label} (${option.nativeLabel})`}
+      getOptionLabel={(option) =>
+        `${option.EnglishName} (${option.NativeName})`
+      }
       filterOptions={(options, state) =>
         options.filter(
           (option) =>
-            option.label
-              .toLowerCase()
-              .includes(state.inputValue.toLowerCase()) ||
-            option.nativeLabel
-              .toLowerCase()
-              .includes(state.inputValue.toLowerCase())
+            option.EnglishName.toLowerCase().includes(
+              state.inputValue.toLowerCase()
+            ) ||
+            option.NativeName.toLowerCase().includes(
+              state.inputValue.toLowerCase()
+            )
         )
       }
       renderOption={(props, option) => {
@@ -66,14 +62,20 @@ export default function LanguageSelector() {
             sx={{ '& > img': { mr: 2, flexShrink: 0 } }}
             {...optionProps}
           >
-            <img
-              loading="lazy"
-              width="20"
-              srcSet={`https://flagcdn.com/w40/${option.flagCode.toLowerCase()}.png 2x`}
-              src={`https://flagcdn.com/w20/${option.flagCode.toLowerCase()}.png`}
-              alt=""
-            />
-            {option.label} ({option.code})
+            {option.FlagCode === '419' ? (
+              <span role="img" aria-label="globe" style={{ marginRight: 8 }}>
+                🌎
+              </span>
+            ) : (
+              <img
+                loading="lazy"
+                width="20"
+                srcSet={`https://flagcdn.com/w40/${option.FlagCode?.toLowerCase()}.png 2x`}
+                src={`https://flagcdn.com/w20/${option.FlagCode?.toLowerCase()}.png`}
+                alt=""
+              />
+            )}
+            {option.EnglishName} ({option.Code})
           </Box>
         );
       }}
@@ -84,14 +86,20 @@ export default function LanguageSelector() {
           InputProps={{
             ...params.InputProps,
             startAdornment: selectedLanguage ? (
-              <img
-                loading="lazy"
-                width="20"
-                srcSet={`https://flagcdn.com/w40/${selectedLanguage.flagCode.toLowerCase()}.png 2x`}
-                src={`https://flagcdn.com/w20/${selectedLanguage.flagCode.toLowerCase()}.png`}
-                alt=""
-                style={{ marginRight: 8 }}
-              />
+              selectedLanguage.FlagCode === '419' ? (
+                <span role="img" aria-label="globe" style={{ marginRight: 8 }}>
+                  🌎
+                </span>
+              ) : (
+                <img
+                  loading="lazy"
+                  width="20"
+                  srcSet={`https://flagcdn.com/w40/${selectedLanguage.FlagCode.toLowerCase()}.png 2x`}
+                  src={`https://flagcdn.com/w20/${selectedLanguage.FlagCode.toLowerCase()}.png`}
+                  alt=""
+                  style={{ marginRight: 8 }}
+                />
+              )
             ) : null,
           }}
           slotProps={{
@@ -104,12 +112,6 @@ export default function LanguageSelector() {
       )}
     />
   );
-}
-interface LanguageType {
-  code: string;
-  label: string;
-  nativeLabel: string;
-  flagCode: string;
+};
 
-  suggested?: boolean;
-}
+export default LanguageSelector;

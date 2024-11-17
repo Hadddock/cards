@@ -1,0 +1,24 @@
+{
+  "letter": {
+    "English": "letter"
+  },
+  "letters": {
+    "English": "letters"
+  },
+  "number": {
+    "English": "number"
+  },
+  "numbers": {
+    "English": "numbers"
+  },
+  "other forms": {
+    "English": "other forms"
+  },
+
+  "uppercase": {
+    "English": "uppercase"
+  },
+  "lowercase": {
+    "English": "lowercase"
+  }
+}

@@ -12,7 +12,14 @@ const LanguageContext = createContext<LanguageContextType | undefined>(
 export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({
   children,
 }) => {
-  const [currentLanguage, setCurrentLanguage] = useState(navigator.language);
+  const [currentLanguage, setCurrentLanguageState] = useState(
+    localStorage.getItem('language') || navigator.language
+  );
+
+  const setCurrentLanguage = (language: string) => {
+    localStorage.setItem('language', language);
+    setCurrentLanguageState(language);
+  };
 
   return (
     <LanguageContext.Provider value={{ currentLanguage, setCurrentLanguage }}>
