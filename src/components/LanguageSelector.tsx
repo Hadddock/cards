@@ -29,10 +29,10 @@ const LanguageSelector: React.FC<LanguageSelectorProps> = ({
       disableCloseOnSelect={false}
       value={selectedLanguage || null}
       inputValue={inputValue}
-      onInputChange={(event, newInputValue) => {
+      onInputChange={(_, newInputValue) => {
         setInputValue(newInputValue);
       }}
-      onChange={(event, newValue) => {
+      onChange={(_, newValue) => {
         if (newValue) {
           setCurrentLanguage(newValue.Code.toLowerCase());
           onLanguageChange(newValue.Code.toLowerCase());
