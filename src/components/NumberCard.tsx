@@ -6,20 +6,29 @@ interface NumberCardProps {
 }
 
 const importGif = (number: number) => {
-  const path = `./../assets/number_formation/gifs/number_${number}.gif`;
-  console.log(`Attempting to import gif from path: ${path}`);
-  try {
-    return import(path)
-      .then((module) => {
-        return module.default;
-      })
-      .catch((err) => {
-        console.error(`Error loading gif for number ${number}`, err);
-        return null;
-      });
-  } catch (err) {
-    console.error(`Error loading gif for number ${number}`, err);
-    return null;
+  switch (number) {
+    case 0:
+      return import('./../assets/number_formation/gifs/number_0.gif');
+    case 1:
+      return import('./../assets/number_formation/gifs/number_1.gif');
+    case 2:
+      return import('./../assets/number_formation/gifs/number_2.gif');
+    case 3:
+      return import('./../assets/number_formation/gifs/number_3.gif');
+    case 4:
+      return import('./../assets/number_formation/gifs/number_4.gif');
+    case 5:
+      return import('./../assets/number_formation/gifs/number_5.gif');
+    case 6:
+      return import('./../assets/number_formation/gifs/number_6.gif');
+    case 7:
+      return import('./../assets/number_formation/gifs/number_7.gif');
+    case 8:
+      return import('./../assets/number_formation/gifs/number_8.gif');
+    case 9:
+      return import('./../assets/number_formation/gifs/number_9.gif');
+    default:
+      return Promise.reject(new Error('Invalid number'));
   }
 };
 
@@ -32,9 +41,9 @@ const NumberCard: React.FC<NumberCardProps> = ({ number, frames }) => {
     } else {
       const gifPromise = importGif(number);
       if (gifPromise) {
-        gifPromise.then((src) => {
-          if (src) {
-            setGifSrc(src);
+        gifPromise.then((module) => {
+          if (module && module.default) {
+            setGifSrc(module.default);
           }
         });
       }
