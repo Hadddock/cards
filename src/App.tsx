@@ -20,7 +20,7 @@ import DeckPage from './Pages/DeckPage';
 function Main() {
   return (
     <LanguageProvider>
-      <Router>
+      <Router basename="/cards">
         <App />
       </Router>
     </LanguageProvider>
