@@ -3,6 +3,7 @@ import ICard from '../types/ICard';
 
 interface CardProps {
   card: ICard;
+  index: number;
 }
 
 const CardPreview: React.FC<CardProps> = ({ card }) => {

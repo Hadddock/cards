@@ -16,6 +16,7 @@ import {
 } from 'react-router-dom';
 import HomePage from './Pages/HomePage';
 import DeckPage from './Pages/DeckPage';
+import CardPage from './Pages/CardPage';
 
 const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 
@@ -36,7 +37,9 @@ const numberToWord = (num: number) => {
 };
 
 const numberCards: INumberCard[] = numbers.map((i) => ({
+  id: `number-${i}`,
   title: i.toString(),
+  cardType: 'number',
   number: i,
   image: `${numberToWord(i)}.svg`,
 }));
@@ -86,7 +89,20 @@ function App() {
       <Layout>
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/numbers" element={<DeckPage cards={numberCards} />} />
+          <Route
+            path="/numbers"
+            element={
+              <DeckPage
+                name="Numbers"
+                description="A deck of number cards."
+                cards={numberCards}
+              />
+            }
+          />
+          <Route
+            path="/deck/:deckName/card/:title"
+            element={<CardPage cards={numberCards} />}
+          />
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
       </Layout>
