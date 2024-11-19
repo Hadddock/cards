@@ -5,7 +5,7 @@ interface CardProps {
   card: ICard;
 }
 
-const Card: React.FC<CardProps> = ({ card }) => {
+const CardPreview: React.FC<CardProps> = ({ card }) => {
   const [imageSrc, setImageSrc] = useState<string | null>(null);
 
   useEffect(() => {
@@ -20,8 +20,9 @@ const Card: React.FC<CardProps> = ({ card }) => {
     <div className="card">
       {imageSrc && <img src={imageSrc} alt={card.title} />}
       <h2>{card.title}</h2>
+      {card.translation && <p>{card.translation}</p>}
     </div>
   );
 };
 
-export default Card;
+export default CardPreview;

@@ -1,17 +1,16 @@
 import React from 'react';
-import Card from './Card';
+import ICard from '../types/ICard';
+import CardPreview from './CardPreview';
 
 interface DeckViewProps {
-  cards: { title: string; content: React.ReactNode }[];
+  cards: ICard[];
 }
 
 const DeckView: React.FC<DeckViewProps> = ({ cards }) => {
   return (
     <div className="deck-view">
-      {cards.map((card, index) => (
-        <Card key={index} title={card.title}>
-          {card.content}
-        </Card>
+      {cards.map((card) => (
+        <CardPreview key={card.title} card={card} /> // Ensure key prop is correctly set
       ))}
     </div>
   );

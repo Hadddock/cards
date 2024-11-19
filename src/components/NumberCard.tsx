@@ -1,10 +1,6 @@
 import React from 'react';
 import Pronunciation from './Pronunciation';
-
-interface NumberCardProps {
-  number: number;
-  frames: string[];
-}
+import INumberCard from '../types/INumberCard';
 
 const importGif = (number: number) => {
   switch (number) {
@@ -76,7 +72,7 @@ const numberToWord = (number: number) => {
   return numberWords[number] || 'Invalid number';
 };
 
-const NumberCard: React.FC<NumberCardProps> = ({ number, frames }) => {
+const NumberCard: React.FC<INumberCard> = ({ number }) => {
   const [gifSrc, setGifSrc] = React.useState<string | null>(null);
   const [audioSrc, setAudioSrc] = React.useState<string | null>(null);
 
@@ -119,11 +115,7 @@ const NumberCard: React.FC<NumberCardProps> = ({ number, frames }) => {
       ) : (
         <div>Loading...</div>
       )}
-      <div className="frames">
-        {frames.map((frame, index) => (
-          <img key={index} src={frame} alt={`Frame ${index + 1}`} />
-        ))}
-      </div>
+
       <Pronunciation audioSrc={audioSrc || ''} word={numberToWord(number)} />
     </div>
   );

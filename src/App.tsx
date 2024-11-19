@@ -17,6 +17,31 @@ import {
 import HomePage from './Pages/HomePage';
 import DeckPage from './Pages/DeckPage';
 
+const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+const numberToWord = (num: number) => {
+  const words = [
+    'zero',
+    'one',
+    'two',
+    'three',
+    'four',
+    'five',
+    'six',
+    'seven',
+    'eight',
+    'nine',
+  ];
+  return words[num];
+};
+
+const numberCards: INumberCard[] = numbers.map((i) => ({
+  title: i.toString(),
+  number: i,
+  image: `${numberToWord(i)}.svg`,
+}));
+import INumberCard from './types/INumberCard';
+
 function Main() {
   return (
     <LanguageProvider>
@@ -61,7 +86,7 @@ function App() {
       <Layout>
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/numbers" element={<DeckPage />} />
+          <Route path="/numbers" element={<DeckPage cards={numberCards} />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
       </Layout>
