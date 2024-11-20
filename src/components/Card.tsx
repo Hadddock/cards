@@ -1,5 +1,17 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import ICard from '../types/ICard';
+
+// Static imports for main images
+import zero from '../assets/images/zero.svg';
+import one from '../assets/images/one.svg';
+import two from '../assets/images/two.svg';
+import three from '../assets/images/three.svg';
+import four from '../assets/images/four.svg';
+import five from '../assets/images/five.svg';
+import six from '../assets/images/six.svg';
+import seven from '../assets/images/seven.svg';
+import eight from '../assets/images/eight.svg';
+import nine from '../assets/images/nine.svg';
 
 // Static imports for alternate images
 import zeroAlternate0 from '../assets/images/zero_alternate_0.svg';
@@ -17,6 +29,19 @@ import sevenAlternate1 from '../assets/images/seven_alternate_1.svg';
 import sevenAlternate2 from '../assets/images/seven_alternate_2.svg';
 
 import nineAlternate0 from '../assets/images/nine_alternate_0.svg';
+
+const imagesMap: { [key: string]: string } = {
+  'zero.svg': zero,
+  'one.svg': one,
+  'two.svg': two,
+  'three.svg': three,
+  'four.svg': four,
+  'five.svg': five,
+  'six.svg': six,
+  'seven.svg': seven,
+  'eight.svg': eight,
+  'nine.svg': nine,
+};
 
 const alternateImagesMap: { [key: string]: string } = {
   'zero_alternate_0.svg': zeroAlternate0,
@@ -41,51 +66,17 @@ interface CardProps {
 }
 
 const Card: React.FC<CardProps> = ({ card }) => {
-  const [imageSrc, setImageSrc] = useState<string | null>(null);
-  const [alternateImageSrcs, setAlternateImageSrcs] = useState<string[]>([]);
-
-  useEffect(() => {
-    const loadImages = async () => {
-      if (card.image) {
-        console.log(`Loading main image: ${card.image}`);
-        try {
-          const image = await import(`../assets/images/${card.image}`);
-          console.log(`Successfully loaded main image: ${card.image}`);
-          setImageSrc(image.default);
-        } catch (error) {
-          console.error(`Error loading main image ${card.image}:`, error);
-          setImageSrc(null);
-        }
-      }
-
-      if (card.alternate_images && card.alternate_images.length > 0) {
-        console.log('Loading alternate images:', card.alternate_images);
-        try {
-          const images = card.alternate_images.map((img) => {
-            const image = alternateImagesMap[img];
-            if (!image) {
-              console.error(`Error loading alternate image ${img}: not found`);
-              return '';
-            }
-            return image;
-          });
-          const srcs = images.filter(Boolean);
-          console.log('Successfully loaded alternate images:', srcs);
-          setAlternateImageSrcs(srcs);
-        } catch (error) {
-          console.error('Error loading alternate images:', error);
-        }
-      }
-    };
-
-    loadImages();
-  }, [card.image, card.alternate_images]);
+  const imageSrc = card.image ? imagesMap[card.image] : null;
+  const alternateImageSrcs =
+    card.alternate_images
+      ?.map((img) => alternateImagesMap[img])
+      .filter(Boolean) || [];
 
   return (
     <div className="card">
       {imageSrc && <img src={imageSrc} alt={card.title} />}
       <h2>{card.title}</h2>
-      {alternateImageSrcs && alternateImageSrcs.length > 0 ? (
+      {alternateImageSrcs.length > 0 ? (
         alternateImageSrcs.map((src, idx) => (
           <img key={idx} src={src} alt={`${card.title} alternate ${idx}`} />
         ))
