@@ -1,0 +1,150 @@
+[
+  {
+    "name": "zero",
+    "pronunciation": "zɪərəʊ",
+    "audio": "zero.mp3",
+    "image": "zero.svg",
+    "alternate_images": ["zero_alternate_0.svg"],
+    "languages": [
+      {
+        "Code": "ar",
+        "numeral": "٠",
+        "name": "صفر"
+      }
+    ]
+  },
+  {
+    "name": "one",
+    "pronunciation": "wʌn",
+    "audio": "one.mp3",
+    "image": "one.svg",
+    "alternate_images": ["one_alternate_0.svg", "one_alternate_1.svg"],
+    "languages": [
+      {
+        "Code": "ar",
+        "numeral": "١",
+        "name": "واحد"
+      }
+    ]
+  },
+  {
+    "name": "two",
+    "pronunciation": "tuː",
+    "audio": "two.mp3",
+    "image": "two.svg",
+    "alternate_images": ["two_alternate_0.svg"],
+    "languages": [
+      {
+        "Code": "ar",
+        "numeral": "٢",
+        "name": "اثنان"
+      }
+    ]
+  },
+  {
+    "name": "three",
+    "pronunciation": "θriː",
+    "audio": "three.mp3",
+    "image": "three.svg",
+    "alternate_images": ["three_alternate_0.svg"],
+    "languages": [
+      {
+        "Code": "ar",
+        "numeral": "٣",
+        "name": "ثلاثة"
+      }
+    ]
+  },
+  {
+    "name": "four",
+    "pronunciation": "fɔːr",
+    "audio": "four.mp3",
+    "image": "four.svg",
+    "alternate_images": [
+      "four_alternate_0.svg",
+      "four_alternate_1.svg",
+      "four_alternate_2.svg"
+    ],
+    "languages": [
+      {
+        "Code": "ar",
+        "numeral": "٤",
+        "name": "أربعة"
+      }
+    ]
+  },
+  {
+    "name": "five",
+    "pronunciation": "faɪv",
+    "audio": "five.mp3",
+    "image": "five.svg",
+
+    "languages": [
+      {
+        "Code": "ar",
+        "numeral": "٥",
+        "name": "خمسة"
+      }
+    ]
+  },
+  {
+    "name": "six",
+    "pronunciation": "sɪks",
+    "audio": "six.mp3",
+    "image": "six.svg",
+
+    "languages": [
+      {
+        "Code": "ar",
+        "numeral": "٦",
+        "name": "ستة"
+      }
+    ]
+  },
+  {
+    "name": "seven",
+    "pronunciation": "sɛvən",
+    "audio": "seven.mp3",
+    "image": "seven.svg",
+    "alternate_images": [
+      "seven_alternate_0.svg",
+      "seven_alternate_1.svg",
+      "seven_alternate_2.svg"
+    ],
+    "languages": [
+      {
+        "Code": "ar",
+        "numeral": "٧",
+        "name": "سبعة"
+      }
+    ]
+  },
+  {
+    "name": "eight",
+    "pronunciation": "eɪt",
+    "audio": "eight.mp3",
+    "image": "eight.svg",
+
+    "languages": [
+      {
+        "Code": "ar",
+        "numeral": "٨",
+        "name": "ثمانية"
+      }
+    ]
+  },
+  {
+    "name": "nine",
+    "pronunciation": "naɪn",
+    "audio": "nine.mp3",
+    "image": "nine.svg",
+    "alternate_images": ["nine_alternate_0.svg"],
+    "languages": [
+      {
+        "Code": "ar",
+        "numeral": "٩",
+        "name": "تسعة"
+      }
+    ]
+  }
+]

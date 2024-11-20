@@ -18,30 +18,18 @@ import HomePage from './Pages/HomePage';
 import DeckPage from './Pages/DeckPage';
 import CardPage from './Pages/CardPage';
 
-const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+import numbersData from './decks/numbers.json';
 
-const numberToWord = (num: number) => {
-  const words = [
-    'zero',
-    'one',
-    'two',
-    'three',
-    'four',
-    'five',
-    'six',
-    'seven',
-    'eight',
-    'nine',
-  ];
-  return words[num];
-};
-
-const numberCards: INumberCard[] = numbers.map((i) => ({
+const numberCards: INumberCard[] = numbersData.map((data, i) => ({
   id: `number-${i}`,
-  title: i.toString(),
+  title: data.name,
   cardType: 'number',
   number: i,
-  image: `${numberToWord(i)}.svg`,
+  image: data.image,
+  pronunciation: data.pronunciation,
+  audio: data.audio,
+  alternate_images: data.alternate_images,
+  languages: data.languages,
 }));
 import INumberCard from './types/INumberCard';
 

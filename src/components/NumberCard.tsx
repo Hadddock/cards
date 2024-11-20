@@ -56,6 +56,13 @@ const importAudio = (number: number) => {
   }
 };
 
+const importImage = (image: string) => {
+  return import(`../assets/images/${image}`).catch((error) => {
+    console.error(`Error loading image ${image}:`, error);
+    return { default: '' };
+  });
+};
+
 const numberToWord = (number: number) => {
   const numberWords = [
     'zero',
@@ -72,9 +79,16 @@ const numberToWord = (number: number) => {
   return numberWords[number] || 'Invalid number';
 };
 
-const NumberCard: React.FC<INumberCard> = ({ number }) => {
+const NumberCard: React.FC<INumberCard> = ({
+  number,
+  alternate_images,
+  languages,
+}) => {
   const [gifSrc, setGifSrc] = React.useState<string | null>(null);
   const [audioSrc, setAudioSrc] = React.useState<string | null>(null);
+  const [alternateImageSrcs, setAlternateImageSrcs] = React.useState<string[]>(
+    []
+  );
 
   React.useEffect(() => {
     if (number < 0 || number > 9) {
@@ -104,6 +118,21 @@ const NumberCard: React.FC<INumberCard> = ({ number }) => {
     }
   }, [number]);
 
+  React.useEffect(() => {
+    if (alternate_images && alternate_images.length > 0) {
+      Promise.all(alternate_images.map((img) => importImage(img)))
+        .then((modules) => {
+          const loadedImages = modules
+            .map((module) => module.default)
+            .filter(Boolean);
+          setAlternateImageSrcs(loadedImages);
+        })
+        .catch((error) => {
+          console.error('Error loading alternate images:', error);
+        });
+    }
+  }, [alternate_images]);
+
   if (number < 0 || number > 9) {
     return <div>Invalid number</div>;
   }
@@ -115,8 +144,22 @@ const NumberCard: React.FC<INumberCard> = ({ number }) => {
       ) : (
         <div>Loading...</div>
       )}
-
       <Pronunciation audioSrc={audioSrc || ''} word={numberToWord(number)} />
+      {alternateImageSrcs.length > 0 ? (
+        alternateImageSrcs.map((src, idx) => (
+          <img key={idx} src={src} alt={`Alternate ${number} ${idx}`} />
+        ))
+      ) : (
+        <p>No alternate images available</p>
+      )}
+      {languages &&
+        languages.map((lang, idx) => (
+          <div key={idx}>
+            <p>
+              {lang.Code}: {lang.numeral} - {lang.name}
+            </p>
+          </div>
+        ))}
     </div>
   );
 };

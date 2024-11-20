@@ -6,4 +6,5 @@ export default interface ICard {
   translation?: string;
   audio?: string;
   image?: string; // Ensure this property is correctly defined
+  alternate_images?: string[];
 }
